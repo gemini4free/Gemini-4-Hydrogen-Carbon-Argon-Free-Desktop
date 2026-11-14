@@ -1,0 +1,7 @@
+{
+  "model": "gemini-4-hydrogen",
+  "context": 1000000,
+  "input_per_mtok": 1.50,
+  "output_per_mtok": 7.50,
+  "cached_input_per_mtok": 0.075
+}
